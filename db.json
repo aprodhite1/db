@@ -1,0 +1,36 @@
+{
+    "list": [
+      {
+        "id": "427f",
+        "nama": "manda",
+        "noHP": "10293810928091",
+        "email": "manda@bps.go.id",
+        "instansi": "bps",
+        "schedule": "2024-07-11T15:30:00.000Z"
+      },
+      {
+        "id": "c28e",
+        "nama": "danu",
+        "noHP": "+628999448497",
+        "email": "danu@gmail.com",
+        "instansi": "BPS RI",
+        "schedule": "2024-07-07T16:00:00.562Z"
+      },
+      {
+        "id": "05ab",
+        "nama": "Bintang",
+        "noHP": "0822831812313",
+        "email": "bintang@gmail.com",
+        "instansi": "Sekretaris Bupati OKUS",
+        "schedule": "2024-07-25T16:00:00.000Z"
+      },
+      {
+        "id": "5fc5",
+        "nama": "tengku",
+        "noHP": "+6282283187930",
+        "email": "tengku15052001@gmail.com",
+        "instansi": "bpsokus",
+        "schedule": "2024-08-03T16:00:00.000Z"
+      }
+    ]
+  }
